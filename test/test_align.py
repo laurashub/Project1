@@ -16,3 +16,6 @@ def test_identical():
 
 def test_alignment_score():
 	assert True
+
+def test_fail():
+    assert False
